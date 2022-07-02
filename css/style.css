@@ -3056,12 +3056,12 @@ footer .row > div:nth-child(5) .comon-footer{
 	
 	.ds-logo{ display: none; width: 400px; }
 	.sc-logo { display: block; width: 400px; }
-	.banner-part{
-		height: 750px;
+	/* .banner-part{
+		height: 500px;
     background: url(../images/svg-web.svg) center 1053px repeat-x, url(../images/banner-pic.webp) center center no-repeat;
     background-size: contain, cover;
 		
-	}
+	} */
 }
 @media (max-width:1080px){
 	.ds-logo{ display: none; width: 400px; }
